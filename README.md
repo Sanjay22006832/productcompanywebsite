@@ -70,7 +70,7 @@ home.html
         </div>
       </div>
       <div class="footer">
-        Copyright &#169; 2023 apple Product, Developed by Kiran
+        Copyright &#169; 2023 apple Product, Developed by sanjay
       </div>
     </div>
   </body>
@@ -148,7 +148,7 @@ product.html
 
        
     <div class="footer">
-        Copyright &#169; 2023 Apple Product, Developed by Kiran
+        Copyright &#169; 2023 Apple Product, Developed by sanjay
     </div>
   </div>
  </body>
@@ -173,11 +173,11 @@ people.html
       </div>
       <div class="productitem"> 
         <div class="itemimage">
-        <img src="assets/manager sanjay.png"  alt="product image">
+        <img src="assets/chan.png"  alt="product image">
       </div>
          <div class="itemname">CEO
            <br>
-           sanjay ramaswami𝗶
+           chan sekar
          </div>
       </div>
       <div class="productitem"> 
@@ -214,7 +214,7 @@ people.html
          <div class="itemname">Microsoft (India President)<br>Rjanikanth</div>
       </div>
       <div class="footer">
-        Copyright &#169; 2023 Apple Product, Developed by Kiran
+        Copyright &#169; 2023 Apple Product, Developed by sanjay
       </div>
     </div>
   </body>
@@ -254,18 +254,21 @@ contact.html
           </div>
         </div>
         <div class="footer">
-  Copyright &#169; 2023 Apple Developed by Kiran
+  Copyright &#169; 2023 Apple Developed by sanjay
 </div>
 </div>
 </body>
 </html>
 ```
 
-## OUTPUT:
-
-
-
 ### Home Page:
+![image](https://user-images.githubusercontent.com/119830477/216099052-38f69240-e44a-4ffc-8f08-fb2099422fd1.png)
+## Product page:
+![image](https://user-images.githubusercontent.com/119830477/216099127-90d459e5-73f7-47b5-aeba-861a36cc6bf8.png)
+## people page:
+![image](https://user-images.githubusercontent.com/119830477/216099319-d41fa467-99b9-4cf7-8573-7d53409a0da6.png)
+## contact page:
+![image](https://user-images.githubusercontent.com/119830477/216099384-60952f30-b97e-47a6-ab40-f666dc198904.png)
 
 
 
